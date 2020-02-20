@@ -1,0 +1,19 @@
+{
+  "name": "leaflet-color-markers",
+  "version": "1.0.0",
+  "description": "Additional colors for Leaflet markers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerome-lemaire/leaflet-color-markers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerome-lemaire/leaflet-color-markers/issues"
+  },
+  "homepage": "https://github.com/jerome-lemaire/leaflet-color-markers#readme"
+}
